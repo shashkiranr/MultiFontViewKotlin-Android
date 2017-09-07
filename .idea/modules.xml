@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultiFontViewKotlin.iml" filepath="$PROJECT_DIR$/MultiFontViewKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifontbuttonkotlin/multifontbuttonkotlin.iml" filepath="$PROJECT_DIR$/multifontbuttonkotlin/multifontbuttonkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifontcheckboxkotlin/multifontcheckboxkotlin.iml" filepath="$PROJECT_DIR$/multifontcheckboxkotlin/multifontcheckboxkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifontedittextkotlin/multifontedittextkotlin.iml" filepath="$PROJECT_DIR$/multifontedittextkotlin/multifontedittextkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifontradiobuttonkotlin/multifontradiobuttonkotlin.iml" filepath="$PROJECT_DIR$/multifontradiobuttonkotlin/multifontradiobuttonkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifontswitchkotlin/multifontswitchkotlin.iml" filepath="$PROJECT_DIR$/multifontswitchkotlin/multifontswitchkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifonttextclockkotlin/multifonttextclockkotlin.iml" filepath="$PROJECT_DIR$/multifonttextclockkotlin/multifonttextclockkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multifonttextviewkotlin/multifonttextviewkotlin.iml" filepath="$PROJECT_DIR$/multifonttextviewkotlin/multifonttextviewkotlin.iml" />
+    </modules>
+  </component>
+</project>

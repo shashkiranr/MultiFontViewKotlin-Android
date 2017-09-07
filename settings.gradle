@@ -1,0 +1,1 @@
+include ':app', ':multifontedittextkotlin', ':multifontswitchkotlin', ':multifontcheckboxkotlin', ':multifonttextviewkotlin', ':multifonttextclockkotlin', ':multifontbuttonkotlin', ':multifontradiobuttonkotlin'
