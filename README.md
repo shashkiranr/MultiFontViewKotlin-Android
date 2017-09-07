@@ -2,7 +2,7 @@
 ## **MultiFontViewKotlin**
 
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![](https://jitpack.io/v/shashkiranr/MultiFontView-Android.svg)](https://jitpack.io/#shashkiranr/MultiFontView-Android)
+[![](https://jitpack.io/v/shashkiranr/MultiFontViewKotlin-Android.svg)](https://jitpack.io/#shashkiranr/MultiFontViewKotlin-Android)
 
 **`MultiFontViewKotlin`** library can be used to select custom fonts for the view dynamically in your XML. The library loads the custom fonts using a font cache. 
 
@@ -16,7 +16,7 @@
 `MultiFontCheckBoxKotlin`
 `MultiFontTextClockKotlin[API 17+]`
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot.png?raw=true)
 
 ## **How to Use**
 
@@ -36,7 +36,7 @@ To Use MultiFont Textview, add the below dependency
  
 ```groovy
 	dependencies {
-	        compile 'com.github.shashkiranr.MultiFontView-Android:multifonttextviewkotlin:1.0'
+	        compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifonttextviewkotlin:1.0'
 	}
 ```
 
@@ -44,7 +44,7 @@ To Use MultiFont Button, add the below dependency
  
 ```groovy
 	dependencies {
-	        compile 'com.github.shashkiranr.MultiFontView-Android:multifontbuttonkotlin:1.0'
+	         compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifontbuttonkotlin:1.0'
 	}
 ```
 
@@ -52,14 +52,14 @@ To Use MultiFont EditText, add the below dependency
  
 ```groovy
 	dependencies {
-	       compile 'com.github.shashkiranr.MultiFontView-Android:multifontedittextkotlin:1.0'
+	       compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifontedittextkotlin:1.0'
 	}
 ```
 To Use MultiFont Switch, add the below dependency
  
 ```groovy
 	dependencies {
-	       compile 'com.github.shashkiranr.MultiFontView-Android:multifontswitchkotlin:1.0'
+	       compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifontswitchkotlin:1.0'
 	}
 ```
 
@@ -67,7 +67,7 @@ To Use MultiFont CheckBox, add the below dependency
  
 ```groovy
 	dependencies {
-	       compile 'com.github.shashkiranr.MultiFontView-Android:multifontcheckboxkotlin:1.0'
+	       compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifontcheckboxkotlin:1.0'
 	}
 ```
 
@@ -75,7 +75,7 @@ To Use MultiFont RadioButton, add the below dependency
  
 ```groovy
 	dependencies {
-	       compile 'com.github.shashkiranr.MultiFontView-Android:multifontradiobuttonkotlin:1.0'
+	       compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifontradiobuttonkotlin:1.0'
 	}
 ```
 
@@ -83,13 +83,13 @@ To Use MultiFont TextClock, add the below dependency
  
 ```groovy
 	dependencies {
-	       compile 'com.github.shashkiranr.MultiFontView-Android:multifonttextclockkotlin:1.0'
+	       compile 'com.github.shashkiranr.MultiFontViewKotlin-Android:multifonttextclockkotlin:1.0'
 	}
 ```
 
 #### *STEP 2 - copy the fonts to assets folder under fonts subfolder*
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20-%20assets.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20-%20assets.png?raw=true)
  
  
 #### *STEP 3 - create an attrs.xml file (if already present then add) a declare-stylable and attribute name typeface_from_list which contains the custom fonts in form of enums -  as shown below*
@@ -252,19 +252,19 @@ If you are using `all the views` or `any two views` just one typeface_from_list 
 
 #### *STEP 5 - Add the custom view in your layout. The property `typeface_from_list` should apper and the font names should display as values as shown below*
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontTextview.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontTextviewKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontButton.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontButtonKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultifontEditText.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultifontEditTextKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontSwitch.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontSwitchKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontRadioButton.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontRadioButtonKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontCheckBox.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontCheckBoxKotlin.png?raw=true)
 
-![](https://github.com/shashkiranr/MultiFontView-Android/blob/master/Screenshot%20MultiFontTextClock.png?raw=true)
+![](https://github.com/shashkiranr/MultiFontViewKotlin-Android/blob/master/Screenshot%20MultiFontTextClockKotlin.png?raw=true)
 
 
 
